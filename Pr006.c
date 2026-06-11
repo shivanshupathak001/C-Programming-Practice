@@ -1,3 +1,4 @@
+//Program 6 (9th June 2026)
 // WAP to check if a given character is digit or not  
 #include<stdio.h>
 int main() {

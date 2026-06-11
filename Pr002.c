@@ -1,3 +1,4 @@
+//Program 2 (7th June 2026)
 //WAP to do arithmetic operations in two numbers 
 #include<stdio.h>
 int main() {

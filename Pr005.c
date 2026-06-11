@@ -1,3 +1,4 @@
+//Program 5 (9th June 2026)
 //WAP to check whether a number is odd or even ( without conditional statement )
 #include<stdio.h>
 int main() {

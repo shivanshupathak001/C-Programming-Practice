@@ -1,3 +1,4 @@
+//Program 10 (11th June 2026)
 // WAP to check whether a number is negative , odd or even using if - else 
 #include<stdio.h>
 int main() {

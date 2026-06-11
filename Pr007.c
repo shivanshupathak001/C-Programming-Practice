@@ -1,3 +1,4 @@
+//Program 7 (10th June 2026)
 // WAP to find the average of 3 numbers 
 #include<stdio.h>
 int main() {
